@@ -1,7 +1,7 @@
 # 인스타그램
 
 public폴더의 이미지, 아이콘을 활용하여
-실제 인스타그램을 보며 tailwindCSS로 완성해보세요.
+실제 인스타그램을 참고하여 tailwindCSS로 완성해보세요.
 
 VS Code 확장프로그램 : Tailwind CSS IntelliSense 설치하면 tailwindCSS 사용이 더 편해집니다.
 

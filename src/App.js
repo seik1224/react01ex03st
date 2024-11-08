@@ -33,4 +33,6 @@ function App() {
   return <></>;
 }
 
+function Card() {}
+
 export default App;
